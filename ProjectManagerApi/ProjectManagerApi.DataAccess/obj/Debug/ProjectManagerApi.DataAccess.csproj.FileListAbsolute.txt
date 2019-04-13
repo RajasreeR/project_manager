@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\bin\Debug\ProjectManagerApi.DataAccess.dll.config
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\bin\Debug\ProjectManagerApi.DataAccess.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\bin\Debug\ProjectManagerApi.DataAccess.pdb
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\obj\Debug\ProjectManagerApi.DataAccess.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\obj\Debug\ProjectManagerApi.DataAccess.pdb
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\obj\Debug\ProjectManagerApi.DataAccess.Migrations.Initial.resources
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\obj\Debug\ProjectManagerApi.DataAccess.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.DataAccess\obj\Debug\ProjectManagerApi.DataAccess.csprojResolveAssemblyReference.cache

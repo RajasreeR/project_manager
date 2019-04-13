@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Entities\bin\Debug\ProjectManagerApi.Entities.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Entities\bin\Debug\ProjectManagerApi.Entities.pdb
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Entities\obj\Debug\ProjectManagerApi.Entities.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Entities\obj\Debug\ProjectManagerApi.Entities.pdb
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Entities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Entities\obj\Debug\ProjectManagerApi.Entities.csprojResolveAssemblyReference.cache

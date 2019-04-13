@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\ProjectManagerApi.Business.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\ProjectManagerApi.Business.pdb
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\ProjectManagerApi.DataAccess.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\ProjectManagerApi.Entities.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\ProjectManagerApi.DataAccess.pdb
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\ProjectManagerApi.DataAccess.dll.config
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\ProjectManagerApi.Entities.pdb
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\obj\Debug\ProjectManagerApi.Business.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\obj\Debug\ProjectManagerApi.Business.dll
+C:\Users\Admin\Documents\Project Manager\ProjectManagerApi\ProjectManagerApi.Business\obj\Debug\ProjectManagerApi.Business.pdb
